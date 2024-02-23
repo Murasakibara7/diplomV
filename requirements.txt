@@ -1,0 +1,6 @@
+Django==2.0.5
+pytz==2018.5
+requests~=2.31.0
+djangorestframework~=3.14.0
+ujson~=5.7.0
+PyYAML~=6.0.1
